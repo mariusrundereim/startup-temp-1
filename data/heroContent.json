@@ -1,0 +1,14 @@
+{
+  "title": "Innover + Transformere = Lykke!",
+  "description": "Vi hjelper bedrifter med å transformere deres digitale tilstedeværelse og oppnå enestående vekst gjennom innovative løsninger.",
+  "buttons": [
+    {
+      "label": "Get Started",
+      "variant": "default"
+    },
+    {
+      "label": "Learn More",
+      "variant": "outline"
+    }
+  ]
+}

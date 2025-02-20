@@ -1,0 +1,29 @@
+{
+  "title": "Vårt inspirerende Team",
+  "members": [
+    {
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+      "name": "Sarah Johnson",
+      "position": "Administrerende direktør",
+      "bio": "Visjonær leder med over 15 års erfaring"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+      "name": "David Chen",
+      "position": "CTO",
+      "bio": "Teknologiinnovatør som spesialiserer seg på AI og blockchain"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "name": "Emily Rodriguez",
+      "position": "Design Direktør",
+      "bio": "Prisvinnende designer med fokus på brukeropplevelse"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "name": "Michael Smith",
+      "position": "Marketing Lead",
+      "bio": "Digital marketing expert driving growth strategies"
+    }
+  ]
+}

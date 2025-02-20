@@ -1,0 +1,20 @@
+{
+  "title": "Våre tjenester",
+  "services": [
+    {
+      "icon": "Globe2",
+      "title": "Digital strategi",
+      "description": "Omfattende digitale strategier skreddersydd til dine forretningsmål"
+    },
+    {
+      "icon": "Laptop",
+      "title": "Webutvikling",
+      "description": "Skreddersydde webløsninger bygget med banebrytende teknologier"
+    },
+    {
+      "icon": "Rocket",
+      "title": "Vekstmarkedsføring",
+      "description": "Datadrevne markedsføringsstrategier for å akselerere din vekst"
+    }
+  ]
+}

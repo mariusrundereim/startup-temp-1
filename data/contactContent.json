@@ -1,19 +1,19 @@
 {
   "title": "Kom i kontakt!",
-  "description": "Have a question or want to work together? We'd love to hear from you.",
+  "description": "Har du et spørsmål eller ønsker å samarbeide? Vi vil gjerne høre fra deg.",
   "contactDetails": {
-    "address": "123 Innovation Street, Tech City, TC 12345",
-    "phone": "+1 (555) 123-4567",
+    "address": "Snøhagen 28, 6130 Ålesund",
+    "phone": "+47 844 88 345",
     "email": "contact@company.com"
   },
   "form": {
     "placeholders": {
-      "name": "Name",
-      "email": "Email",
-      "subject": "Subject",
-      "message": "Message"
+      "name": "Navn",
+      "email": "E-Post",
+      "subject": "Tittel",
+      "message": "Melding"
     },
-    "submitText": "Send Message"
+    "submitText": "Send Melding"
   },
   "toast": {
     "title": "Message sent!",
